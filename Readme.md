@@ -29,5 +29,5 @@ A Power BI dashboard analyzing survey responses from data professionals worldwid
 ---
 
 ## 📂 Files
-- https://github.com/Muna5abdullah/Data-Professional-Survey-Dashboard/blob/main/Data-Professional-Survey.pbix 
-- https://github.com/Muna5abdullah/Data-Professional-Survey-Dashboard/blob/main/Data-Professional-Survey.pdf
+- (pbix / Power Bi File ) https://github.com/Muna5abdullah/Data-Professional-Survey-Dashboard/blob/main/Data-Professional-Survey.pbix 
+- (pdf / Dashboard ) https://github.com/Muna5abdullah/Data-Professional-Survey-Dashboard/blob/main/Data-Professional-Survey.pdf
